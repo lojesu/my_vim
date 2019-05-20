@@ -12,7 +12,7 @@ set cc=80
 set backspace=indent,eol,start
 autocmd InsertLeave * :set norelativenumber
 autocmd InsertEnter * :set relativenumber
-nohlsearch
 inoremap ( ()<left>
 inoremap [ []<left>
 inoremap " ""<left>
+inoremap ' ''<left>
