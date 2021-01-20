@@ -1,3 +1,4 @@
+set nocompatible
 syntax on
 colorscheme Tomorrow-Night
 set nu
