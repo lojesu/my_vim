@@ -9,6 +9,9 @@ set smartindent
 set autoindent
 set hlsearch
 set showcmd
+set tabstop=4
+set expandtab
+set shiftwidth=4
 set cc=80
 set backspace=indent,eol,start
 autocmd InsertLeave * :set norelativenumber
